@@ -16,5 +16,4 @@ def play_game():
             print("Thanks for playing!")
             break
 
-print("Hello World")
 play_game()
